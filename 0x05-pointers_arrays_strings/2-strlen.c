@@ -2,11 +2,11 @@
 
 /**
  * _strlen -length of a string
- * @s: A pointer to an int that will be changed/updated
+ * @a: A pointer to an int that will be changed/updated
  * Return: Always 0.
  */
 
-int _strlen(char *a)
+int _strlen(char *)
 {
 int t;
 
