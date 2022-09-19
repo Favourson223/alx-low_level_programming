@@ -1,7 +1,7 @@
 #include "main.h"
 
 /*
- *  a function that returns the length of a string. 
+ * a function that returns the length of a string.
  * Return: Always 0.
  */
 
