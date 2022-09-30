@@ -2,7 +2,7 @@
 #include <stdlib.h>
 /**
  * main - print the name of the executable.
- * @argc: Counts
+ * @argc: argument count
  * @argv: argument vector
  *
  * Return: always 0.
